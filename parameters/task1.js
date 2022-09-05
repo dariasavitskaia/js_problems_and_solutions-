@@ -20,3 +20,4 @@ function average(likes, dislikes, editedMessages, allMessages) {
 rep = average(likes, dislikes, editedMessages, allMessages);
 
 console.log(rep);
+// test comment
